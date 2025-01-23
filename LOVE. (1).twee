@@ -1,0 +1,183 @@
+:: StoryTitle
+LOVE.
+
+
+:: StoryData
+{
+  "ifid": "BB83BFEC-3C58-4487-9569-BF193BDEB2A6",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage 1",
+  "zoom": 0.3
+}
+
+
+:: \ A) Accept their invitation and go out for dinner\  {"position":"725,450","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+</div>
+
+(align:"<==>")+(box:"X")[=
+You agree to go out for dinner, and your girlfriend suggests a new restaurant that just opened up in Parkhurst. You both head out, enjoying a delicious meal and each other's company.
+<div align="center">
+<img src="https://images.stockcake.com/public/2/f/7/2f78f079-1295-42e4-bf3f-205d3e5427de_large/intimate-dinner-date-stockcake.jpg" alt="A description of the image"width="75%"/>
+</div>
+As you're finishing up dessert, your girlfriend says, "I had a great time tonight. I'm so glad we could spend some quality time together."
+
+You smile and say, "Me too. I love spending time with you."
+
+Your girlfriend looks at you with a thoughtful expression, and you can tell they're thinking about something.
+
+Do you:
+
+[[A) Ask them what's on their mind]]
+[[B) Just enjoy the moment and not worry about it]]
+
+
+:: \ B) Decline their invitation and stay in the office to keep working\  {"position":"850,450","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+</div>
+
+You thank your girlfriend for the thoughtful gesture, but tell them that you really need to finish up your work for the night. You explain that you're on a tight deadline and can't afford to take a break right now. Your girlfriend looks a little disappointed, but understands the importance of your work. They offer to stay with you in the office and keep you company while you work, but you tell them that you'll be okay and that they should go home and get some rest.
+
+<div align="center">
+<img src="https://npr.brightspotcdn.com/dims4/default/b7264c9/2147483647/strip/true/crop/600x338+0+30/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fketr%2Ffiles%2F201508%2Fno_huffingtonpost-com.jpg" width="80%"/>
+</div>
+
+
+
+:: \ C) Suggest doing something else, like going for a walk or watching a movie\  {"position":"600,450","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+</div>
+
+You both enjoy a peaceful walk, sharing quiet time together, before heading home for a cozy movie marathon. By the end of the evening, you both feel more connected, happy, and content in each other’s company.
+
+<div align="center">
+<img src="https://i0.wp.com/blog2.roomiapp.com/wp-content/uploads/2021/01/MOVIE-MARATHON-scaled.jpg?fit=2560%2C1920&ssl=1"width="70%"/>
+</div>
+
+
+:: \ Continue\  {"position":"850,700","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+
+<div style="font-size: 70px;"> <div style="text-align: center;">
+Will you be my Valentine?
+</div>
+
+</div>
+
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/4f/47/d1/4f47d14cb35629ba81c2cc2ab59395b0.gif"width="70%"/>
+</div>
+
+<div style="font-size: 70px;"> <div style="text-align: center;">
+[[ Yes ]] or [[No ]]
+</div>
+
+
+
+:: \ Yes\  {"position":"850,825","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+</div>
+
+
+<div align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-508.gif"width="90%"/>
+
+</div>
+
+<div style="font-size: 30px;"> <div style="text-align: center;">
+SEE YOU ON THE 14TH OF FEBRUARY AT SINN !!
+</div>
+
+
+:: A) Ask them what's on their mind {"position":"725,575","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+</div>
+
+You notice your girlfriend’s thoughtful expression and ask, "Hey, what’s on your mind? You’ve been quiet for a while."
+
+They pause for a moment, looking a bit hesitant, but then smile softly and take your hand. "I’ve just been thinking," they begin, "about how much I value what we have. I love spending time with you, and I feel so lucky to be with you. But, I guess I’ve been wondering if we’re on the same page with where things are going."
+
+<div align="center">
+<img src="https://sweetwaternow.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2022/01/Awkward-1024x576.jpg"width="90%"/>
+</div>
+
+
+
+:: B) Just enjoy the moment and not worry about it {"position":"850,575","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+</div>
+
+(align:"<==>")+(box:"X")[=
+You decide to just enjoy the moment and not worry about what's on your girlfriend's mind. You both finish up dinner and head back home, enjoying each other's company and the quiet evening.
+
+As you're walking back to the car, your girlfriend takes your hand and says, "I'm really happy with us. I feel like we have something special."
+
+<div align="center">
+<img src="https://i.pinimg.com/736x/ee/70/fe/ee70fe310b881b66d1454d3bd678b93a.jpg" alt="A description of the image"width="45%"/>
+</div>
+
+You smile and squeeze their hand, feeling happy and content.
+
+When you get back home, your girlfriend says, "I have one more thing I want to ask you. 
+
+[[ Continue ]]
+
+
+
+:: No\  {"position":"975,825","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+</div>
+
+<div align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-914.gif"width="90%"/>
+</div>
+
+
+:: Start {"position":"725,325","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+</div>
+
+(align:"<==>")+(box:"X")[=
+<div align="center">
+<img src="https://img.freepik.com/free-photo/close-up-businesswoman-s-hand-using-laptop-wooden-desk_23-2147970878.jpg?t=st=1737650647~exp=1737654247~hmac=120f54f79d4a1c0a1011e60dacdd8912c447ba6d317225a47c6f6de4f53161ee&w=1480" alt="A description of the image"width="85%"/>
+</div>
+
+You're working late in the office, reading through cases and trying to bill your daily target of 7 hours. The fluorescent lights overhead seem to hum in sync with your tired eyes, and you can't help but feel a sense of relief when you finally hear the sound of the elevator doors opening. You look up to see your girlfriend walking towards you, a bright smile on their face and a bouquet of flowers in their hand. "Hey, I thought I'd come fetch you from the office," they say, setting the flowers down on your desk. "You've been working so hard lately, and I wanted to surprise you." You can't help but feel a little touched by the thoughtful gesture, and you take a moment to appreciate the beauty of the flowers and the kindness of your girlfriend.
+
+"Thanks, I really needed this," you say, smiling up at them. "I've been stuck on this case all day, and I'm starting to feel like I'm getting nowhere."
+
+Your girlfriend nods and says, "Well, why don't you take a break and let's go get some dinner? I was thinking we could try out that new restaurant that just opened up in Parkhurst."
+
+Do you:
+
+[[ A) Accept their invitation and go out for dinner ]]
+
+[[ B) Decline their invitation and stay in the office to keep working ]]
+
+[[ C) Suggest doing something else, like going for a walk or watching a movie ]]
+
+
+:: Untitled Passage 1 {"position":"725,200","size":"100,100"}
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0a3BpcThsNzA2Ym5kZjFqaWtteXA2anQ1MWYzM3NmM2p6dGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2oKWbIYEioXgxVmEM/giphy.gif"width="25%"/>
+</div>
+
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Fwdzk5emxsbmR2d2pob3Y2M3NkNTJxNDIwYzlmdzE0aXc3enFzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAF2NDkBi5OdW/giphy.gif"width="90%"/>
+</div>
+
+
+<div style="font-size: 80px;"> <div style="text-align: center;">
+[[Start->Start]]
+</div>
